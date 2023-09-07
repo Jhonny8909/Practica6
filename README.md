@@ -23,3 +23,9 @@ Aprendemos a utilizar github
 Profesor: Sebastian Mejia
 
 Estamos aprendiendo a usar mitek y tecnix
+
+## Sistemas operativos y redes
+
+Profesor: Oziel Morales
+
+Empezamos a ver c++
