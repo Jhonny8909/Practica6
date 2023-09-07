@@ -11,3 +11,9 @@ Estamos aprendiendo a vender nuestro juego.
 Profesor: Roberto Melo Ortiz D' Ora
 
 Aprendemos a utilizar photoshop
+
+## Programacion En lenguaje interpretados
+
+Profesor: Jonathan MirCha
+
+Aprendemos a utilizar github
