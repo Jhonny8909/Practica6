@@ -17,3 +17,9 @@ Aprendemos a utilizar photoshop
 Profesor: Jonathan MirCha
 
 Aprendemos a utilizar github
+
+## Desarollo de app
+
+Profesor: Sebastian Mejia
+
+Estamos aprendiendo a usar mitek y tecnix
