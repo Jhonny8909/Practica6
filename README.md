@@ -29,3 +29,5 @@ Estamos aprendiendo a usar mitek y tecnix
 Profesor: Oziel Morales
 
 Empezamos a ver c++
+
+Creando version 1.0.0 de este repositorio
