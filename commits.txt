@@ -1,0 +1,41 @@
+commit 36c5356776faf9beb96e90c5d17a1b720b70fd60
+Author: Jonathan Montesinos <jonathan_2910MP@outlook.com>
+Date:   Tue Sep 12 21:51:59 2023 -0600
+
+    Subiendo commits.txt
+
+commit be477bd1dae1b6ca8812e034b2f4b108b3d7610f
+Author: Jonathan Montesinos <cdmx2508@amerke.edu.mx>
+Date:   Wed Sep 6 22:43:49 2023 -0600
+
+    Sistemas operativos y redes
+
+commit 0b1f6c641a316ae60f0d1f77d7519b81c6e53e62
+Author: Jonathan Montesinos <cdmx2508@amerke.edu.mx>
+Date:   Wed Sep 6 22:41:14 2023 -0600
+
+    Desarrollo de app
+
+commit eb620cc2117c3666a78e4a20d4f571d07ed530ca
+Author: Jonathan Montesinos <cdmx2508@amerke.edu.mx>
+Date:   Wed Sep 6 22:38:17 2023 -0600
+
+    Programacion en lenguajes interpretados
+
+commit 8b9a731cd5d749a14fee60d6d86290d9ea7193f4
+Author: Jonathan Montesinos <cdmx2508@amerke.edu.mx>
+Date:   Wed Sep 6 22:26:40 2023 -0600
+
+    Principios de composicion y diseño
+
+commit 72490af721d951327b86710a7f8b77a543857944
+Author: Jonathan Montesinos <cdmx2508@amerke.edu.mx>
+Date:   Wed Sep 6 22:21:03 2023 -0600
+
+    Diseño de videojuegos
+
+commit 8b83d7b446432080bb19a87a6eebe1172817c938
+Author: Jonathan Montesinos <cdmx2508@amerke.edu.mx>
+Date:   Wed Sep 6 21:58:09 2023 -0600
+
+    First Commit
